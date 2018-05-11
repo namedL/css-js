@@ -7,8 +7,6 @@
 # js：
 1.1,base64编码转码：   
 
-<script src="https://github.com/namedL/css-js/blob/master/js/base64.js"></script>    <br/>      
-
 <script>      <br/>       
  
  Base64.encode("namedl");   //bmFtZWRs      <br/>       
