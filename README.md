@@ -5,16 +5,16 @@
 
 
 # js：
-1.1,base64编码转码：
-#
-<script src="https://github.com/namedL/css-js/blob/master/js/base64.js"></script>
+1.1,base64编码转码：   
 
-<script>
+<script src="https://github.com/namedL/css-js/blob/master/js/base64.js"></script>    
+
+<script>   
  
- Base64.encode("namedl");   //bmFtZWRs
+ Base64.encode("namedl");   //bmFtZWRs    
  
- Base64.decode("bmFtZWRs")    //namedl
+ Base64.decode("bmFtZWRs")    //namedl    
  
-</script>
-1.2
+</script>     
+1.2    
 可直接使用base64在线工具：http://tool.oschina.net/encrypt?type=3
